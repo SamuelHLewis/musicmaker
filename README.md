@@ -1,2 +1,2 @@
 # musicmaker
-Generate new music using machine learning
+Generate new music using machine learning.
